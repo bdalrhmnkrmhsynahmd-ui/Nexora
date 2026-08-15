@@ -418,10 +418,11 @@ h3{
     margin-right: 10px;
   }
 }
-
-@media (min-width: 450px) {
-  p{
-    font-size: 15px ;
+@media (min-width: 650px) {
+  body{
+    zoom:1.6;
+  }
+  nav a{
+    margin-right: 10px;
   }
 }
- 
