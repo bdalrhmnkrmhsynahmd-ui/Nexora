@@ -419,9 +419,6 @@ h3{
   }
 }
 @media (min-width: 650px) {
-  body{
-    zoom:1.6;
-  }
   nav a{
     margin-right: 10px;
   }
